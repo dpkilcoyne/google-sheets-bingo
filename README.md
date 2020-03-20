@@ -6,7 +6,7 @@ I decided to make it after difficulty finding a website to create bingo cards wi
 ## Instructions
 
 ### Setup
-1.  Copy the Bingo Card Template [here](https://docs.google.com/spreadsheets/d/1agTmdZfuCwjggIKfva9ySNcHcah-fB81yt4baIuYIRk/).
+1.  Copy the Bingo Card Template [here](https://docs.google.com/spreadsheets/d/1agTmdZfuCwjggIKfva9ySNcHcah-fB81yt4baIuYIRk/copy).
 2.  Look for the **Bingo Card** option in the toolbar. If it's not there refresh the page.
 3.  Enter your options in the **Bingo Options** sheet. If you supply less than 25, there will be duplicates, more than 25 and random words will be chosen without duplicates.
 4.  From the toolbar, select **Bingo Card -> Reset Card** to generate a new card in the **Bingo Card** sheet.
